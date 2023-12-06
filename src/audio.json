@@ -1,0 +1,14 @@
+{
+    "songs": [
+        {
+            "title": "Doruk New",
+            "audio": "audio/doruk-new.wav",
+            "cover": "images/doruk-new.jpg"
+        },
+        {
+            "title": "Ege New",
+            "audio": "audio/ege-new.mp3",
+            "cover": "images/ege-new.jpeg"
+        }
+    ]
+}
